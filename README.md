@@ -53,8 +53,8 @@
 <br>
 <br>
  <!--计数牌-->
-<a href="https://b23.tv/baqD8N8">
-<img src="https://stats.justsong.cn/api/bilibili/?id=420259074" align="center"></a>
+<a href="https://space.bilibili.com/341722962">
+<img src="https://stats.justsong.cn/api/bilibili/?id=341722962" align="center"></a>
  </td>
 </tr>
 </table>
@@ -62,32 +62,12 @@
 
 
 ---
-  <br>
-<h2 align="center">
-  👨‍💻   涉及领域（小白）  👨‍💻
- </h2>
- <p align="center">
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/></a>
-</p>
-<br>
-<!--前往主页-->
-<p align="center"> 
-<a href="https://xiaoji235.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" width="170px" height="40px"/></a>
-</p>
-<br>
 
----
 <br>
 <!--计数君-->
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=180&height=33&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
-  <img src="https://profile-counter.glitch.me/xiaoji235/count.svg" />
+  <img src="https://profile-counter.glitch.me/marcozyj/count.svg" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=230&height=33&lines=%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81" style="max-width: 100%;">
 </p>
   
