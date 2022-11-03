@@ -36,26 +36,19 @@
 <tr>
 <!--功勋墙-->
 <td width="60%" border="none">
-  <a href="https://github.com/xiaoji235">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
+  <a href="https://github.com/marcozyj">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcozyj&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
 <br>
 <br>
 <br>
 <br>
-<!--### 我的贡献 😃-->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=30&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
-       alt="我的贡献 😃" />
-<!--贪吃蛇-->   
-    <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/output/github-contribution-grid-snake.svg" align="center" alt="Contribution eating Snake" />
-    </a>
-</td>
- 
- 
+      
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=marcozyj&theme=xcode" /> </div>
+      
+
  <!--ralsei-->
- <td width="40%">
- <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" align="center" width="300px"/>
-<br>
+ <td width="50%">
+ <img src="https://i.ibb.co/k1D8K17/phpp-Ft-JNI.webp" align="center" height="430px" width="430px"/>
 <br>
 <br>
 <br>
