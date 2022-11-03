@@ -23,3 +23,14 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+<table align="center">
+<tr>
+<!--功勋墙-->
+<td width="60%" border="none">
+  <a href="https://github.com/xiaoji235">
+    <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
+<br>
+<br>
+<br>
+<br>
