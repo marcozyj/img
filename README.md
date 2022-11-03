@@ -48,7 +48,7 @@
 
  <!--ralsei-->
  <td width="50%">
- <img src="https://i.ibb.co/k1D8K17/phpp-Ft-JNI.webp" align="center" height="390px" width="390px"/>
+ <img src="https://i.ibb.co/k1D8K17/phpp-Ft-JNI.webp" align="center" width="390px"/>
 <br>
 <br>
 <br>
